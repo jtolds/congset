@@ -1,5 +1,5 @@
 # congset
-LD_PRELOAD library for setting the tcp congestion controller on all sockets via env var
+An LD_PRELOAD library for setting the TCP congestion controller on all sockets of a given process via an environment variable.
 
 # usage
 
